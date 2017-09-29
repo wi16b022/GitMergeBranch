@@ -12,5 +12,9 @@ namespace GitMergeBranch
         {
             //Change in master
         }
+        private void ChangeInMaster()
+        {
+
+        }
     }
 }
